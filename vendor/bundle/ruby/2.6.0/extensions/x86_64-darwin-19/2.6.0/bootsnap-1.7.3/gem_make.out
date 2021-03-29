@@ -1,0 +1,15 @@
+current directory: /Users/tokiyoshiyuudai/Desktop/meshiterro/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.3/ext/bootsnap
+/Users/tokiyoshiyuudai/.rbenv/versions/2.6.5/bin/ruby -I /Users/tokiyoshiyuudai/.rbenv/versions/2.6.5/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210329-65802-49wplc.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tokiyoshiyuudai/Desktop/meshiterro/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.3/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/tokiyoshiyuudai/Desktop/meshiterro/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.3/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/tokiyoshiyuudai/Desktop/meshiterro/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.3/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210329-65802-1lrn2u/bootsnap
